@@ -1,2 +1,2 @@
-# Image-processing
-Njust图像处理作业
+# image analysis basics
+NJUST图像分析基础作业
